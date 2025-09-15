@@ -1,0 +1,1001 @@
+Product_ID,Product_Name,Category,Color,Size,Sale_Price,Cost_Price
+1,Sports Track Pants,Apparel,Green,XS,71.3,17.39
+2,Elegant Kurta Set,Footwear,Blue,44,33.82,39.87
+3,Casual Sneakers,Apparel,Black,XS,78.52,48.01
+4,Elegant Kurta Set,Footwear,Green,44,31.65,40.29
+5,Elegant Kurta Set,Apparel,White,M,74.78,10.63
+6,Leather Belt,Apparel,Red,M,32.23,19.21
+7,Leather Belt,Apparel,Orange,XL,28.01,16.41
+8,Elegant Kurta Set,Footwear,Red,35,86.41,37.93
+9,Casual Sneakers,Footwear,Pink,36,95.57,18.6
+10,Elegant Kurta Set,Apparel,Pink,XL,89.35,43.99
+11,Summer T-Shirt Classic,Footwear,Orange,44,69.23,34.76
+12,Leather Belt,Apparel,Green,L,34.62,15.05
+13,Leather Belt,Footwear,Yellow,43,98.16,26.53
+14,Elegant Kurta Set,Footwear,White,37,65.64,17.19
+15,Running Shoes Pro,Apparel,White,XXL,41.46,12.89
+16,Running Shoes Pro,Apparel,Yellow,L,36.4,30.52
+17,Sports Track Pants,Apparel,Yellow,XL,88.75,41.77
+18,Leather Belt,Apparel,Orange,L,44.25,18.38
+19,Elegant Kurta Set,Footwear,Red,35,42.25,43.72
+20,Formal Leather Shoes,Apparel,Yellow,M,25.14,39.42
+21,Summer T-Shirt Classic,Footwear,Blue,36,39.0,41.55
+22,Leather Belt,Footwear,Grey,45,96.81,42.18
+23,Premium Cotton Shirt,Footwear,Black,42,92.46,22.17
+24,Formal Leather Shoes,Footwear,Grey,43,53.33,41.47
+25,Elegant Kurta Set,Footwear,Black,41,85.79,45.85
+26,Winter Wool Sweater,Footwear,White,40,89.67,16.57
+27,Elegant Kurta Set,Footwear,Red,35,98.15,43.41
+28,Casual Sneakers,Apparel,Pink,L,56.35,18.1
+29,Sports Track Pants,Footwear,Pink,44,67.21,33.69
+30,Casual Sneakers,Apparel,Orange,XS,29.07,15.68
+31,Casual Sneakers,Apparel,Green,M,93.96,47.52
+32,Winter Wool Sweater,Footwear,Blue,39,82.75,30.22
+33,Sports Track Pants,Apparel,Grey,XL,89.33,49.24
+34,Premium Cotton Shirt,Footwear,Grey,40,54.18,11.18
+35,Running Shoes Pro,Apparel,Black,L,98.33,16.94
+36,Premium Cotton Shirt,Apparel,Pink,L,47.92,28.87
+37,Summer T-Shirt Classic,Footwear,Red,40,80.72,49.59
+38,Formal Leather Shoes,Apparel,Orange,XS,63.0,20.96
+39,Sports Track Pants,Footwear,Orange,43,78.22,33.97
+40,Elegant Kurta Set,Footwear,Pink,45,61.86,41.64
+41,Winter Wool Sweater,Apparel,Yellow,S,64.73,38.84
+42,Premium Cotton Shirt,Apparel,Yellow,XS,36.66,13.08
+43,Casual Sneakers,Apparel,Pink,M,76.33,12.39
+44,Premium Cotton Shirt,Footwear,Orange,35,72.4,16.37
+45,Formal Leather Shoes,Footwear,Orange,40,81.63,14.99
+46,Casual Sneakers,Apparel,Grey,XXL,42.76,45.4
+47,Winter Wool Sweater,Footwear,Purple,44,75.8,23.22
+48,Premium Cotton Shirt,Apparel,Black,XS,84.77,32.99
+49,Leather Belt,Apparel,Yellow,XS,60.69,32.91
+50,Formal Leather Shoes,Apparel,Pink,XL,68.09,34.05
+51,Sports Track Pants,Footwear,Blue,42,33.09,48.36
+52,Summer T-Shirt Classic,Apparel,Red,XS,80.09,24.4
+53,Casual Denim Jacket,Footwear,Purple,45,49.09,39.82
+54,Formal Leather Shoes,Footwear,Red,36,79.71,21.38
+55,Premium Cotton Shirt,Footwear,Purple,39,67.55,44.49
+56,Formal Leather Shoes,Footwear,Grey,36,47.17,37.98
+57,Elegant Kurta Set,Apparel,Black,XL,77.27,49.2
+58,Premium Cotton Shirt,Apparel,Red,XS,84.69,20.81
+59,Premium Cotton Shirt,Apparel,Green,XS,78.73,29.91
+60,Sports Track Pants,Footwear,Orange,43,80.08,14.56
+61,Elegant Kurta Set,Footwear,Black,44,88.57,40.01
+62,Sports Track Pants,Apparel,Black,XL,65.97,46.61
+63,Formal Leather Shoes,Apparel,Grey,XS,43.02,42.76
+64,Formal Leather Shoes,Apparel,Blue,S,94.43,30.59
+65,Casual Denim Jacket,Footwear,Yellow,35,61.74,26.14
+66,Casual Sneakers,Footwear,Black,36,23.93,44.84
+67,Running Shoes Pro,Footwear,Blue,38,36.78,41.39
+68,Elegant Kurta Set,Apparel,Yellow,XL,78.5,35.66
+69,Elegant Kurta Set,Apparel,White,M,30.33,44.43
+70,Running Shoes Pro,Footwear,Yellow,44,38.34,29.03
+71,Formal Leather Shoes,Footwear,Pink,39,52.53,17.69
+72,Summer T-Shirt Classic,Apparel,Black,M,85.52,33.58
+73,Running Shoes Pro,Footwear,Blue,39,20.68,16.81
+74,Casual Denim Jacket,Apparel,Grey,M,77.86,13.61
+75,Leather Belt,Footwear,Yellow,45,34.29,47.09
+76,Casual Sneakers,Footwear,Black,39,64.83,26.29
+77,Casual Denim Jacket,Apparel,Grey,M,57.05,28.77
+78,Sports Track Pants,Apparel,Purple,S,89.64,43.12
+79,Formal Leather Shoes,Apparel,Grey,M,22.33,30.55
+80,Winter Wool Sweater,Apparel,Black,L,63.68,16.89
+81,Leather Belt,Footwear,Pink,38,56.58,17.05
+82,Leather Belt,Footwear,Green,43,59.54,14.39
+83,Premium Cotton Shirt,Footwear,White,37,46.75,46.37
+84,Winter Wool Sweater,Footwear,Pink,44,42.68,30.71
+85,Sports Track Pants,Footwear,Black,38,88.26,27.34
+86,Running Shoes Pro,Apparel,Black,XXL,88.68,14.08
+87,Premium Cotton Shirt,Footwear,Yellow,44,42.83,25.98
+88,Formal Leather Shoes,Footwear,Red,44,70.95,46.69
+89,Casual Denim Jacket,Footwear,Grey,37,40.16,10.3
+90,Sports Track Pants,Footwear,Red,39,45.36,44.18
+91,Casual Denim Jacket,Footwear,Green,39,20.08,32.67
+92,Sports Track Pants,Footwear,Orange,41,99.69,12.91
+93,Winter Wool Sweater,Apparel,Orange,L,78.25,22.19
+94,Sports Track Pants,Footwear,Green,45,54.24,38.08
+95,Sports Track Pants,Apparel,Blue,XL,85.39,45.8
+96,Casual Sneakers,Footwear,Black,39,64.42,33.94
+97,Premium Cotton Shirt,Apparel,Yellow,XS,66.89,49.43
+98,Casual Denim Jacket,Footwear,Purple,36,88.45,14.66
+99,Formal Leather Shoes,Apparel,Black,S,20.32,49.86
+100,Leather Belt,Apparel,Orange,M,87.45,40.77
+101,Winter Wool Sweater,Apparel,Black,XS,56.08,21.72
+102,Casual Denim Jacket,Footwear,Orange,40,76.15,19.95
+103,Formal Leather Shoes,Footwear,Yellow,38,23.46,37.7
+104,Premium Cotton Shirt,Apparel,Orange,XS,75.87,13.83
+105,Summer T-Shirt Classic,Footwear,Pink,38,67.79,26.47
+106,Casual Sneakers,Footwear,Red,45,30.2,34.39
+107,Casual Denim Jacket,Footwear,Black,37,44.93,43.05
+108,Summer T-Shirt Classic,Footwear,Orange,37,45.84,21.13
+109,Casual Denim Jacket,Apparel,Pink,XS,50.97,16.17
+110,Formal Leather Shoes,Apparel,Pink,XS,70.42,27.58
+111,Casual Sneakers,Apparel,Grey,XXL,25.85,42.11
+112,Formal Leather Shoes,Footwear,Grey,35,43.6,45.98
+113,Casual Sneakers,Apparel,Black,XL,37.66,33.96
+114,Casual Sneakers,Apparel,Black,S,35.47,21.7
+115,Casual Denim Jacket,Footwear,White,41,23.79,41.32
+116,Elegant Kurta Set,Footwear,Grey,36,62.54,32.09
+117,Summer T-Shirt Classic,Apparel,White,XXL,65.89,16.78
+118,Winter Wool Sweater,Apparel,Yellow,M,21.18,14.45
+119,Formal Leather Shoes,Footwear,Pink,45,90.25,39.25
+120,Summer T-Shirt Classic,Apparel,Black,M,33.73,18.95
+121,Leather Belt,Footwear,Purple,35,58.35,17.95
+122,Winter Wool Sweater,Footwear,Purple,36,78.92,47.92
+123,Summer T-Shirt Classic,Apparel,Black,XL,61.33,10.47
+124,Summer T-Shirt Classic,Footwear,Red,41,43.71,12.52
+125,Casual Denim Jacket,Apparel,Red,XL,84.66,45.78
+126,Running Shoes Pro,Footwear,Purple,39,22.12,20.97
+127,Summer T-Shirt Classic,Footwear,White,38,93.65,42.49
+128,Premium Cotton Shirt,Apparel,Yellow,XL,38.44,29.26
+129,Running Shoes Pro,Footwear,Orange,39,73.8,34.95
+130,Elegant Kurta Set,Apparel,Black,XXL,63.49,48.84
+131,Running Shoes Pro,Footwear,Purple,37,69.61,35.05
+132,Formal Leather Shoes,Footwear,Pink,41,21.4,35.89
+133,Casual Sneakers,Apparel,Blue,M,93.9,43.46
+134,Running Shoes Pro,Apparel,Green,XXL,32.61,38.79
+135,Premium Cotton Shirt,Apparel,Green,M,88.74,31.14
+136,Casual Denim Jacket,Footwear,Black,38,20.91,37.69
+137,Formal Leather Shoes,Apparel,Red,M,38.7,21.12
+138,Summer T-Shirt Classic,Footwear,Yellow,38,30.63,25.4
+139,Casual Sneakers,Apparel,Blue,M,24.82,36.56
+140,Sports Track Pants,Footwear,Yellow,43,68.34,32.04
+141,Premium Cotton Shirt,Footwear,Black,36,79.73,28.12
+142,Summer T-Shirt Classic,Apparel,Pink,M,84.08,30.74
+143,Casual Sneakers,Apparel,Orange,XS,60.37,21.52
+144,Summer T-Shirt Classic,Apparel,Green,L,39.45,29.24
+145,Formal Leather Shoes,Footwear,Orange,42,66.56,34.85
+146,Sports Track Pants,Apparel,Yellow,M,86.45,28.4
+147,Sports Track Pants,Apparel,Yellow,XS,84.24,49.04
+148,Formal Leather Shoes,Apparel,Blue,XXL,65.72,12.36
+149,Running Shoes Pro,Apparel,Black,M,84.89,43.26
+150,Formal Leather Shoes,Apparel,Orange,M,34.18,16.7
+151,Casual Denim Jacket,Footwear,Pink,42,63.63,11.26
+152,Winter Wool Sweater,Footwear,Pink,35,75.69,35.24
+153,Casual Sneakers,Apparel,Red,M,67.34,38.35
+154,Winter Wool Sweater,Apparel,White,XXL,60.46,39.25
+155,Elegant Kurta Set,Apparel,Black,XL,35.62,26.75
+156,Sports Track Pants,Apparel,Black,XS,57.77,22.59
+157,Formal Leather Shoes,Apparel,Orange,S,62.33,29.77
+158,Sports Track Pants,Footwear,Black,40,46.55,18.21
+159,Summer T-Shirt Classic,Footwear,Purple,39,36.17,28.25
+160,Leather Belt,Footwear,Grey,42,61.09,18.96
+161,Summer T-Shirt Classic,Footwear,Pink,45,25.95,11.05
+162,Running Shoes Pro,Apparel,Red,M,63.65,28.09
+163,Running Shoes Pro,Apparel,Grey,M,83.27,19.28
+164,Premium Cotton Shirt,Apparel,Black,XL,66.02,20.49
+165,Summer T-Shirt Classic,Footwear,Pink,37,34.47,48.27
+166,Casual Sneakers,Footwear,Orange,36,93.45,30.74
+167,Leather Belt,Apparel,Red,L,66.72,12.78
+168,Winter Wool Sweater,Apparel,Green,M,88.07,47.62
+169,Casual Sneakers,Footwear,Red,41,41.6,24.36
+170,Formal Leather Shoes,Apparel,Orange,XL,93.78,12.66
+171,Winter Wool Sweater,Footwear,Purple,40,59.72,40.31
+172,Casual Sneakers,Apparel,White,XS,94.32,32.22
+173,Leather Belt,Footwear,Orange,36,43.25,16.43
+174,Running Shoes Pro,Apparel,Red,XXL,36.48,37.61
+175,Casual Sneakers,Apparel,Blue,XS,79.49,42.25
+176,Running Shoes Pro,Apparel,Blue,XS,90.87,41.99
+177,Leather Belt,Apparel,White,M,61.08,23.64
+178,Sports Track Pants,Apparel,Yellow,L,82.56,31.34
+179,Premium Cotton Shirt,Footwear,Red,36,69.09,39.81
+180,Leather Belt,Footwear,Red,38,62.11,30.71
+181,Formal Leather Shoes,Footwear,Blue,45,49.34,49.7
+182,Elegant Kurta Set,Apparel,Green,M,84.98,18.9
+183,Premium Cotton Shirt,Apparel,Green,S,23.0,19.03
+184,Casual Denim Jacket,Apparel,Orange,S,93.61,21.29
+185,Casual Denim Jacket,Apparel,Blue,XL,43.33,29.78
+186,Formal Leather Shoes,Apparel,Purple,XXL,70.77,24.57
+187,Running Shoes Pro,Apparel,Grey,XXL,93.98,11.68
+188,Winter Wool Sweater,Footwear,Green,39,67.73,26.26
+189,Leather Belt,Apparel,Red,L,46.15,20.39
+190,Winter Wool Sweater,Footwear,Black,38,53.33,31.75
+191,Sports Track Pants,Apparel,Black,XL,38.17,28.27
+192,Elegant Kurta Set,Footwear,Orange,45,79.51,48.18
+193,Casual Denim Jacket,Apparel,White,M,39.86,49.68
+194,Summer T-Shirt Classic,Apparel,Red,XL,89.43,30.86
+195,Summer T-Shirt Classic,Footwear,Grey,36,34.73,41.58
+196,Premium Cotton Shirt,Apparel,Pink,XS,68.19,30.46
+197,Premium Cotton Shirt,Apparel,Orange,M,86.48,37.54
+198,Summer T-Shirt Classic,Apparel,Orange,M,99.92,43.18
+199,Premium Cotton Shirt,Footwear,Purple,41,52.06,48.01
+200,Sports Track Pants,Footwear,Orange,42,27.09,31.76
+201,Running Shoes Pro,Footwear,Pink,38,91.44,22.85
+202,Summer T-Shirt Classic,Apparel,Pink,S,54.14,34.86
+203,Premium Cotton Shirt,Apparel,Pink,S,81.76,28.74
+204,Winter Wool Sweater,Footwear,Grey,39,88.09,31.64
+205,Running Shoes Pro,Apparel,Yellow,M,97.59,32.0
+206,Premium Cotton Shirt,Apparel,White,L,22.59,43.0
+207,Sports Track Pants,Footwear,Green,39,58.58,25.32
+208,Sports Track Pants,Apparel,Blue,XS,61.2,49.77
+209,Casual Denim Jacket,Apparel,Green,XS,85.26,48.23
+210,Winter Wool Sweater,Apparel,Yellow,XS,83.6,36.26
+211,Casual Denim Jacket,Footwear,Red,39,67.0,49.8
+212,Winter Wool Sweater,Footwear,Grey,43,87.93,32.39
+213,Sports Track Pants,Footwear,Blue,43,41.03,38.73
+214,Leather Belt,Footwear,Yellow,35,70.0,10.9
+215,Leather Belt,Footwear,Orange,36,21.78,48.66
+216,Casual Sneakers,Footwear,Pink,40,43.96,34.4
+217,Running Shoes Pro,Apparel,Orange,M,68.77,36.97
+218,Casual Sneakers,Footwear,Green,43,44.78,47.6
+219,Leather Belt,Apparel,Grey,S,96.53,46.26
+220,Casual Denim Jacket,Footwear,Yellow,36,62.71,34.87
+221,Running Shoes Pro,Apparel,Orange,XXL,24.3,14.93
+222,Summer T-Shirt Classic,Footwear,White,35,32.67,11.56
+223,Elegant Kurta Set,Footwear,White,37,63.42,21.62
+224,Elegant Kurta Set,Footwear,White,42,94.54,48.01
+225,Sports Track Pants,Apparel,Pink,L,62.83,31.99
+226,Elegant Kurta Set,Apparel,Grey,XS,25.4,20.86
+227,Leather Belt,Apparel,Green,XL,92.29,40.12
+228,Winter Wool Sweater,Apparel,Yellow,S,64.16,32.65
+229,Elegant Kurta Set,Footwear,Pink,37,63.71,23.78
+230,Casual Sneakers,Apparel,Grey,S,34.53,20.53
+231,Sports Track Pants,Footwear,Purple,44,45.21,35.04
+232,Premium Cotton Shirt,Apparel,Red,XS,41.4,43.85
+233,Winter Wool Sweater,Apparel,Black,XL,83.67,34.85
+234,Casual Denim Jacket,Apparel,Red,M,29.32,46.06
+235,Formal Leather Shoes,Apparel,Grey,M,81.35,21.56
+236,Winter Wool Sweater,Apparel,Black,XL,64.86,24.16
+237,Premium Cotton Shirt,Apparel,Red,XL,80.21,47.1
+238,Summer T-Shirt Classic,Footwear,Blue,44,69.86,12.95
+239,Winter Wool Sweater,Apparel,Blue,M,91.83,41.36
+240,Formal Leather Shoes,Footwear,Red,43,73.02,13.02
+241,Formal Leather Shoes,Apparel,Black,XXL,21.68,24.65
+242,Formal Leather Shoes,Apparel,Blue,XXL,70.83,46.87
+243,Sports Track Pants,Footwear,Purple,36,41.34,31.81
+244,Winter Wool Sweater,Apparel,Green,M,45.9,11.02
+245,Formal Leather Shoes,Footwear,Orange,44,59.65,24.14
+246,Elegant Kurta Set,Footwear,Black,38,67.3,25.07
+247,Summer T-Shirt Classic,Footwear,Red,43,33.46,23.9
+248,Casual Denim Jacket,Footwear,Purple,39,59.64,17.26
+249,Elegant Kurta Set,Apparel,Pink,XS,76.39,16.42
+250,Summer T-Shirt Classic,Footwear,Grey,44,32.19,46.28
+251,Sports Track Pants,Apparel,Purple,XS,97.7,15.5
+252,Casual Sneakers,Apparel,Black,XS,52.13,25.47
+253,Casual Denim Jacket,Footwear,White,41,82.71,12.51
+254,Elegant Kurta Set,Apparel,White,M,36.82,40.94
+255,Leather Belt,Apparel,Blue,M,58.89,49.65
+256,Formal Leather Shoes,Footwear,Red,45,65.02,26.47
+257,Elegant Kurta Set,Apparel,Grey,L,53.05,42.14
+258,Elegant Kurta Set,Apparel,Grey,XL,48.57,26.25
+259,Elegant Kurta Set,Apparel,Red,S,53.82,34.55
+260,Casual Denim Jacket,Footwear,Yellow,42,36.74,14.28
+261,Casual Denim Jacket,Footwear,Blue,41,34.34,30.63
+262,Leather Belt,Apparel,Orange,XS,31.06,19.08
+263,Elegant Kurta Set,Footwear,Black,40,73.3,47.06
+264,Leather Belt,Footwear,Blue,43,23.52,24.5
+265,Casual Denim Jacket,Footwear,Purple,39,96.61,47.12
+266,Elegant Kurta Set,Apparel,Pink,L,99.23,32.9
+267,Sports Track Pants,Footwear,Pink,38,21.02,42.81
+268,Premium Cotton Shirt,Footwear,Green,45,87.48,45.76
+269,Premium Cotton Shirt,Apparel,Red,L,75.91,37.48
+270,Casual Sneakers,Apparel,Grey,XS,31.35,32.26
+271,Running Shoes Pro,Footwear,Yellow,40,58.57,36.48
+272,Sports Track Pants,Apparel,Blue,S,51.72,40.31
+273,Summer T-Shirt Classic,Apparel,Black,XS,38.28,49.87
+274,Leather Belt,Apparel,White,L,91.51,44.59
+275,Casual Sneakers,Footwear,White,41,51.11,42.46
+276,Running Shoes Pro,Apparel,Grey,XS,93.04,35.0
+277,Elegant Kurta Set,Footwear,Black,42,23.58,40.5
+278,Sports Track Pants,Apparel,Green,M,90.79,49.93
+279,Formal Leather Shoes,Footwear,Purple,42,55.66,22.17
+280,Leather Belt,Footwear,Blue,42,50.19,42.82
+281,Casual Denim Jacket,Footwear,Blue,41,39.82,20.88
+282,Casual Denim Jacket,Footwear,Grey,40,71.39,27.2
+283,Casual Sneakers,Apparel,Orange,XL,46.91,17.27
+284,Formal Leather Shoes,Footwear,Pink,40,26.11,49.79
+285,Casual Denim Jacket,Apparel,Blue,S,48.39,14.13
+286,Running Shoes Pro,Footwear,Purple,40,62.8,45.29
+287,Leather Belt,Apparel,Orange,L,61.67,38.62
+288,Winter Wool Sweater,Footwear,Yellow,37,62.27,16.47
+289,Winter Wool Sweater,Footwear,White,35,88.19,41.77
+290,Winter Wool Sweater,Apparel,Green,XL,57.5,41.8
+291,Winter Wool Sweater,Footwear,Grey,43,54.01,13.29
+292,Running Shoes Pro,Apparel,Pink,XL,77.23,16.02
+293,Formal Leather Shoes,Apparel,Black,L,87.6,16.46
+294,Sports Track Pants,Apparel,Grey,S,97.75,29.37
+295,Casual Denim Jacket,Apparel,Green,M,39.37,40.03
+296,Winter Wool Sweater,Apparel,Yellow,L,60.52,42.34
+297,Running Shoes Pro,Apparel,Green,M,47.14,30.39
+298,Summer T-Shirt Classic,Footwear,Yellow,40,27.8,14.89
+299,Premium Cotton Shirt,Apparel,Orange,M,48.94,26.08
+300,Formal Leather Shoes,Apparel,Purple,M,58.35,21.64
+301,Formal Leather Shoes,Footwear,White,40,51.49,32.06
+302,Formal Leather Shoes,Footwear,Blue,44,28.41,11.11
+303,Running Shoes Pro,Footwear,Grey,44,29.75,34.02
+304,Sports Track Pants,Footwear,Yellow,44,60.53,47.96
+305,Premium Cotton Shirt,Apparel,Green,M,45.85,30.51
+306,Casual Denim Jacket,Footwear,Green,41,62.61,38.65
+307,Sports Track Pants,Footwear,Blue,39,22.15,18.49
+308,Summer T-Shirt Classic,Apparel,Pink,XL,94.79,48.73
+309,Sports Track Pants,Apparel,Blue,S,43.91,19.15
+310,Casual Sneakers,Apparel,Pink,XXL,33.48,43.79
+311,Summer T-Shirt Classic,Footwear,Purple,43,21.92,13.55
+312,Running Shoes Pro,Footwear,Green,44,49.57,44.51
+313,Leather Belt,Apparel,Orange,L,54.67,49.08
+314,Summer T-Shirt Classic,Apparel,Black,L,93.53,32.67
+315,Winter Wool Sweater,Apparel,Grey,XS,39.16,34.07
+316,Elegant Kurta Set,Apparel,Purple,XS,92.22,38.75
+317,Running Shoes Pro,Apparel,Green,L,36.19,13.62
+318,Elegant Kurta Set,Footwear,Purple,40,78.86,17.0
+319,Sports Track Pants,Apparel,Orange,XXL,90.41,16.91
+320,Formal Leather Shoes,Footwear,Orange,43,55.69,26.47
+321,Sports Track Pants,Footwear,Blue,45,70.11,45.77
+322,Elegant Kurta Set,Footwear,Green,36,34.59,16.95
+323,Running Shoes Pro,Apparel,Purple,L,46.67,31.97
+324,Leather Belt,Footwear,Purple,37,58.69,35.38
+325,Running Shoes Pro,Footwear,Red,36,65.42,14.32
+326,Winter Wool Sweater,Apparel,Green,L,42.12,49.04
+327,Running Shoes Pro,Apparel,Yellow,XXL,29.08,32.97
+328,Sports Track Pants,Apparel,Orange,S,39.27,14.95
+329,Sports Track Pants,Footwear,Red,44,71.55,21.72
+330,Casual Denim Jacket,Apparel,Purple,L,60.98,29.16
+331,Winter Wool Sweater,Apparel,Purple,XS,57.8,10.34
+332,Sports Track Pants,Apparel,Yellow,S,92.61,16.33
+333,Leather Belt,Footwear,Black,37,26.51,24.11
+334,Elegant Kurta Set,Footwear,Pink,45,81.69,38.66
+335,Sports Track Pants,Footwear,Blue,35,48.64,11.53
+336,Running Shoes Pro,Footwear,Yellow,38,26.62,34.88
+337,Casual Sneakers,Footwear,Grey,44,43.41,39.19
+338,Formal Leather Shoes,Apparel,Black,XXL,34.2,31.07
+339,Summer T-Shirt Classic,Footwear,Green,43,97.06,12.48
+340,Summer T-Shirt Classic,Apparel,Yellow,M,40.68,35.26
+341,Premium Cotton Shirt,Apparel,Red,XXL,84.84,26.49
+342,Elegant Kurta Set,Apparel,Pink,S,99.9,26.3
+343,Summer T-Shirt Classic,Apparel,Grey,XS,74.19,22.79
+344,Summer T-Shirt Classic,Apparel,Pink,XL,92.4,11.75
+345,Summer T-Shirt Classic,Footwear,Red,43,70.49,27.17
+346,Casual Denim Jacket,Footwear,Blue,37,24.93,17.99
+347,Running Shoes Pro,Footwear,Green,36,74.84,15.55
+348,Winter Wool Sweater,Apparel,Green,L,40.47,43.23
+349,Leather Belt,Footwear,Grey,37,58.11,17.78
+350,Leather Belt,Apparel,Yellow,XXL,24.77,44.11
+351,Summer T-Shirt Classic,Footwear,Red,43,57.59,46.34
+352,Running Shoes Pro,Footwear,Pink,37,59.02,48.69
+353,Casual Denim Jacket,Footwear,Grey,40,37.76,47.89
+354,Premium Cotton Shirt,Footwear,Green,41,82.59,21.94
+355,Casual Denim Jacket,Apparel,Blue,XXL,73.64,37.96
+356,Winter Wool Sweater,Footwear,Black,38,98.03,41.58
+357,Summer T-Shirt Classic,Apparel,Orange,XS,75.15,43.01
+358,Leather Belt,Apparel,Green,M,59.77,38.26
+359,Winter Wool Sweater,Footwear,Orange,45,37.88,27.74
+360,Elegant Kurta Set,Footwear,Purple,43,27.11,39.2
+361,Sports Track Pants,Footwear,Grey,40,52.99,25.1
+362,Casual Sneakers,Footwear,White,45,90.41,14.15
+363,Winter Wool Sweater,Footwear,Black,41,32.57,39.95
+364,Formal Leather Shoes,Apparel,Pink,M,54.87,36.65
+365,Premium Cotton Shirt,Footwear,Purple,43,83.2,30.3
+366,Winter Wool Sweater,Footwear,Grey,35,82.78,18.19
+367,Casual Denim Jacket,Footwear,Blue,35,74.9,46.28
+368,Leather Belt,Footwear,White,37,63.7,35.3
+369,Premium Cotton Shirt,Apparel,Red,S,69.36,35.98
+370,Casual Sneakers,Apparel,Pink,XS,83.37,29.38
+371,Leather Belt,Footwear,Purple,43,21.0,35.27
+372,Premium Cotton Shirt,Footwear,Black,45,29.7,14.45
+373,Running Shoes Pro,Footwear,Green,43,86.89,37.51
+374,Running Shoes Pro,Footwear,Red,39,28.74,28.91
+375,Running Shoes Pro,Footwear,Black,40,77.57,17.9
+376,Casual Sneakers,Footwear,Red,39,47.24,15.45
+377,Casual Denim Jacket,Footwear,Grey,45,79.67,21.46
+378,Formal Leather Shoes,Footwear,Red,38,22.38,43.1
+379,Elegant Kurta Set,Footwear,Purple,35,42.74,28.68
+380,Winter Wool Sweater,Apparel,Orange,XXL,45.45,40.72
+381,Formal Leather Shoes,Footwear,Green,37,94.65,21.74
+382,Leather Belt,Apparel,Purple,XL,99.86,28.71
+383,Elegant Kurta Set,Footwear,Black,40,87.61,12.97
+384,Elegant Kurta Set,Apparel,Pink,M,76.44,20.72
+385,Running Shoes Pro,Apparel,Yellow,XL,21.66,44.22
+386,Formal Leather Shoes,Apparel,Orange,S,37.56,39.22
+387,Sports Track Pants,Footwear,Pink,35,78.36,49.59
+388,Premium Cotton Shirt,Apparel,Orange,M,69.59,18.0
+389,Premium Cotton Shirt,Apparel,White,L,91.15,17.65
+390,Leather Belt,Apparel,Black,M,97.58,18.05
+391,Elegant Kurta Set,Apparel,Red,M,91.94,33.19
+392,Summer T-Shirt Classic,Apparel,Green,XS,79.33,32.78
+393,Casual Denim Jacket,Footwear,Red,41,24.54,35.17
+394,Summer T-Shirt Classic,Footwear,Green,39,40.42,14.51
+395,Elegant Kurta Set,Apparel,Blue,M,67.94,22.76
+396,Elegant Kurta Set,Apparel,Yellow,XXL,82.13,38.63
+397,Summer T-Shirt Classic,Footwear,Red,41,75.12,12.1
+398,Elegant Kurta Set,Apparel,White,L,77.87,45.79
+399,Summer T-Shirt Classic,Footwear,White,41,65.9,23.65
+400,Leather Belt,Footwear,Yellow,39,83.71,41.27
+401,Sports Track Pants,Footwear,Pink,45,28.77,10.05
+402,Summer T-Shirt Classic,Apparel,Grey,S,42.23,22.64
+403,Running Shoes Pro,Apparel,White,XS,82.21,39.13
+404,Running Shoes Pro,Footwear,Green,43,56.86,40.08
+405,Leather Belt,Apparel,Orange,XXL,98.39,33.47
+406,Leather Belt,Apparel,Blue,XL,55.21,19.38
+407,Casual Sneakers,Footwear,Blue,35,48.64,12.95
+408,Casual Denim Jacket,Apparel,Pink,XL,76.33,22.52
+409,Premium Cotton Shirt,Footwear,Blue,40,48.34,33.56
+410,Sports Track Pants,Apparel,Red,XS,45.94,25.92
+411,Summer T-Shirt Classic,Apparel,Green,XXL,63.07,16.59
+412,Elegant Kurta Set,Footwear,Orange,41,63.16,37.23
+413,Formal Leather Shoes,Apparel,Blue,XS,55.28,44.89
+414,Sports Track Pants,Footwear,Yellow,37,58.94,26.4
+415,Formal Leather Shoes,Apparel,Grey,M,96.26,29.4
+416,Casual Sneakers,Apparel,Black,S,96.03,46.63
+417,Premium Cotton Shirt,Footwear,Pink,43,34.42,44.84
+418,Winter Wool Sweater,Apparel,Yellow,XL,33.5,17.49
+419,Premium Cotton Shirt,Apparel,White,XS,29.27,49.7
+420,Sports Track Pants,Footwear,Blue,44,22.07,32.52
+421,Summer T-Shirt Classic,Apparel,Yellow,L,44.14,16.35
+422,Leather Belt,Footwear,Black,45,78.49,47.54
+423,Running Shoes Pro,Apparel,Green,M,44.79,46.86
+424,Elegant Kurta Set,Apparel,Yellow,L,48.18,23.44
+425,Formal Leather Shoes,Apparel,Orange,L,88.72,10.02
+426,Premium Cotton Shirt,Footwear,Yellow,35,76.23,15.48
+427,Running Shoes Pro,Footwear,Pink,36,70.64,34.2
+428,Summer T-Shirt Classic,Apparel,White,M,78.41,10.12
+429,Casual Sneakers,Apparel,Red,S,35.29,48.14
+430,Casual Sneakers,Apparel,Grey,L,27.18,30.33
+431,Elegant Kurta Set,Apparel,Pink,M,36.05,30.07
+432,Sports Track Pants,Footwear,Green,41,62.38,49.7
+433,Casual Sneakers,Footwear,Blue,40,77.65,30.86
+434,Leather Belt,Apparel,Blue,XXL,49.68,27.3
+435,Sports Track Pants,Apparel,White,S,73.38,40.79
+436,Casual Denim Jacket,Apparel,Red,XXL,28.89,16.95
+437,Running Shoes Pro,Footwear,Grey,38,83.14,24.51
+438,Running Shoes Pro,Apparel,Pink,XL,34.15,49.2
+439,Summer T-Shirt Classic,Apparel,Red,S,97.55,13.21
+440,Casual Sneakers,Apparel,Pink,XL,77.63,19.92
+441,Winter Wool Sweater,Footwear,Yellow,39,39.89,30.28
+442,Winter Wool Sweater,Apparel,Yellow,S,68.73,18.96
+443,Running Shoes Pro,Footwear,Green,40,98.48,10.51
+444,Casual Denim Jacket,Footwear,Orange,36,67.19,26.0
+445,Casual Sneakers,Footwear,Purple,38,32.21,34.72
+446,Casual Denim Jacket,Footwear,Orange,39,74.65,42.59
+447,Casual Denim Jacket,Footwear,Grey,41,83.96,13.98
+448,Casual Denim Jacket,Apparel,Green,M,25.16,35.89
+449,Summer T-Shirt Classic,Footwear,Purple,38,65.15,17.96
+450,Running Shoes Pro,Apparel,Red,S,28.33,14.25
+451,Elegant Kurta Set,Footwear,Grey,39,71.74,32.06
+452,Leather Belt,Footwear,Grey,36,61.04,29.98
+453,Formal Leather Shoes,Footwear,Purple,37,83.64,39.23
+454,Sports Track Pants,Footwear,Black,35,44.53,38.07
+455,Elegant Kurta Set,Apparel,Red,XS,82.32,19.39
+456,Casual Sneakers,Footwear,Orange,38,21.96,15.88
+457,Casual Denim Jacket,Apparel,Blue,XL,98.75,45.2
+458,Elegant Kurta Set,Apparel,Blue,M,37.14,18.52
+459,Formal Leather Shoes,Apparel,Green,L,21.65,17.43
+460,Elegant Kurta Set,Footwear,Green,45,25.85,22.4
+461,Summer T-Shirt Classic,Footwear,Green,38,98.97,24.4
+462,Casual Sneakers,Footwear,Black,36,91.82,46.56
+463,Elegant Kurta Set,Footwear,Orange,39,79.49,12.29
+464,Sports Track Pants,Footwear,Yellow,43,97.63,36.41
+465,Sports Track Pants,Footwear,Yellow,37,23.28,35.35
+466,Casual Denim Jacket,Apparel,Yellow,XXL,88.49,29.18
+467,Running Shoes Pro,Footwear,Red,41,76.73,38.8
+468,Leather Belt,Footwear,Pink,41,20.21,39.94
+469,Casual Sneakers,Footwear,Black,45,25.0,22.72
+470,Running Shoes Pro,Apparel,Red,XS,85.57,32.5
+471,Summer T-Shirt Classic,Apparel,White,XS,72.07,14.33
+472,Formal Leather Shoes,Footwear,Grey,39,26.42,17.3
+473,Winter Wool Sweater,Footwear,White,36,57.67,15.45
+474,Winter Wool Sweater,Apparel,White,L,37.65,25.36
+475,Elegant Kurta Set,Apparel,Pink,M,37.88,46.29
+476,Summer T-Shirt Classic,Footwear,Grey,37,64.24,34.55
+477,Summer T-Shirt Classic,Apparel,Black,M,39.76,37.87
+478,Casual Denim Jacket,Apparel,Pink,XXL,50.57,19.73
+479,Leather Belt,Footwear,Pink,38,91.95,20.11
+480,Casual Denim Jacket,Footwear,Orange,37,92.52,12.54
+481,Premium Cotton Shirt,Footwear,Yellow,38,22.43,20.81
+482,Casual Sneakers,Footwear,Green,44,82.95,30.58
+483,Formal Leather Shoes,Footwear,Red,38,84.52,16.58
+484,Leather Belt,Footwear,Green,39,39.19,25.75
+485,Winter Wool Sweater,Apparel,Pink,XL,79.27,23.33
+486,Winter Wool Sweater,Footwear,Black,45,51.9,22.06
+487,Summer T-Shirt Classic,Footwear,Red,38,55.84,15.74
+488,Premium Cotton Shirt,Footwear,Blue,39,31.43,20.02
+489,Formal Leather Shoes,Footwear,Green,40,86.09,11.87
+490,Sports Track Pants,Apparel,White,XL,30.51,29.78
+491,Casual Denim Jacket,Apparel,Orange,S,50.25,11.95
+492,Casual Sneakers,Apparel,Red,M,65.2,13.28
+493,Casual Denim Jacket,Apparel,Black,S,23.9,43.53
+494,Elegant Kurta Set,Footwear,Blue,36,87.69,28.51
+495,Casual Sneakers,Apparel,Black,XS,69.47,26.66
+496,Leather Belt,Footwear,Black,38,38.21,13.77
+497,Winter Wool Sweater,Apparel,Red,S,99.25,29.7
+498,Leather Belt,Footwear,Yellow,44,49.22,35.23
+499,Winter Wool Sweater,Apparel,Blue,L,58.7,16.34
+500,Formal Leather Shoes,Footwear,Red,40,39.54,24.2
+501,Formal Leather Shoes,Apparel,Yellow,L,58.16,26.46
+502,Running Shoes Pro,Apparel,Pink,L,98.89,48.84
+503,Running Shoes Pro,Apparel,Green,S,89.45,22.98
+504,Summer T-Shirt Classic,Apparel,Pink,XL,51.45,21.07
+505,Summer T-Shirt Classic,Footwear,Purple,35,47.63,12.23
+506,Elegant Kurta Set,Footwear,Blue,43,26.47,41.21
+507,Premium Cotton Shirt,Apparel,White,XS,40.38,16.25
+508,Winter Wool Sweater,Apparel,Yellow,M,51.03,15.05
+509,Running Shoes Pro,Apparel,Green,XL,67.18,46.5
+510,Summer T-Shirt Classic,Footwear,Blue,45,22.64,34.17
+511,Formal Leather Shoes,Footwear,Black,37,25.84,16.73
+512,Summer T-Shirt Classic,Footwear,Grey,45,74.51,26.0
+513,Casual Sneakers,Apparel,Purple,XL,73.0,49.81
+514,Formal Leather Shoes,Footwear,Green,38,25.36,14.72
+515,Premium Cotton Shirt,Apparel,Grey,M,77.82,30.77
+516,Winter Wool Sweater,Footwear,Purple,36,53.97,29.05
+517,Summer T-Shirt Classic,Apparel,Purple,XL,38.2,38.85
+518,Casual Sneakers,Footwear,Green,36,44.37,20.11
+519,Casual Sneakers,Apparel,Grey,XS,20.87,29.23
+520,Sports Track Pants,Apparel,Grey,L,53.2,10.77
+521,Running Shoes Pro,Apparel,Purple,L,60.98,43.42
+522,Casual Denim Jacket,Footwear,Yellow,43,90.73,46.19
+523,Winter Wool Sweater,Apparel,Orange,M,89.01,36.77
+524,Casual Denim Jacket,Apparel,Red,L,63.17,47.96
+525,Leather Belt,Footwear,Green,40,98.25,24.59
+526,Leather Belt,Footwear,Orange,41,51.52,45.13
+527,Elegant Kurta Set,Apparel,Grey,L,63.94,35.05
+528,Leather Belt,Footwear,Purple,42,93.98,34.7
+529,Summer T-Shirt Classic,Apparel,White,S,32.24,33.8
+530,Winter Wool Sweater,Footwear,Purple,43,94.7,35.85
+531,Casual Sneakers,Apparel,Yellow,M,69.66,45.96
+532,Leather Belt,Footwear,Pink,45,90.79,35.14
+533,Summer T-Shirt Classic,Footwear,Yellow,41,34.0,46.85
+534,Running Shoes Pro,Apparel,Purple,M,38.36,28.99
+535,Sports Track Pants,Footwear,Black,35,67.29,38.12
+536,Premium Cotton Shirt,Apparel,Black,XL,82.54,47.88
+537,Formal Leather Shoes,Footwear,White,41,36.51,16.3
+538,Winter Wool Sweater,Footwear,Grey,36,92.14,32.73
+539,Winter Wool Sweater,Footwear,Green,36,27.13,31.06
+540,Sports Track Pants,Footwear,Black,41,55.37,44.16
+541,Formal Leather Shoes,Footwear,Black,38,27.84,22.9
+542,Formal Leather Shoes,Apparel,Pink,S,50.08,49.86
+543,Premium Cotton Shirt,Apparel,Orange,XL,49.95,39.39
+544,Casual Sneakers,Apparel,Green,XS,61.23,40.71
+545,Casual Denim Jacket,Footwear,Purple,45,33.13,17.19
+546,Formal Leather Shoes,Footwear,Black,35,72.84,47.96
+547,Summer T-Shirt Classic,Footwear,Blue,38,41.69,10.76
+548,Winter Wool Sweater,Footwear,Blue,40,23.2,10.27
+549,Casual Denim Jacket,Apparel,Grey,XXL,58.59,28.76
+550,Casual Sneakers,Apparel,Red,XXL,61.77,43.75
+551,Casual Denim Jacket,Footwear,Purple,41,43.51,13.79
+552,Summer T-Shirt Classic,Apparel,White,XL,70.82,41.4
+553,Casual Sneakers,Footwear,Green,42,57.78,11.0
+554,Premium Cotton Shirt,Apparel,Green,L,43.9,45.61
+555,Leather Belt,Apparel,Purple,XL,79.33,23.02
+556,Premium Cotton Shirt,Apparel,Red,XXL,47.7,33.41
+557,Casual Denim Jacket,Footwear,Purple,45,56.27,26.2
+558,Casual Sneakers,Apparel,Blue,XS,61.65,36.05
+559,Running Shoes Pro,Apparel,Green,S,96.58,14.93
+560,Formal Leather Shoes,Footwear,White,35,57.34,19.17
+561,Leather Belt,Apparel,Pink,L,47.91,34.76
+562,Running Shoes Pro,Footwear,Yellow,43,51.86,47.0
+563,Casual Denim Jacket,Footwear,White,39,59.9,38.29
+564,Leather Belt,Apparel,Purple,XS,40.19,38.22
+565,Casual Sneakers,Apparel,White,S,42.87,28.43
+566,Summer T-Shirt Classic,Apparel,Purple,XL,97.41,34.0
+567,Formal Leather Shoes,Apparel,Black,XL,24.16,48.44
+568,Sports Track Pants,Apparel,Pink,XXL,54.24,17.53
+569,Summer T-Shirt Classic,Footwear,Red,37,96.03,31.18
+570,Premium Cotton Shirt,Apparel,White,XS,80.23,26.43
+571,Casual Sneakers,Apparel,Black,M,44.49,35.38
+572,Casual Sneakers,Footwear,Red,40,63.24,35.34
+573,Casual Sneakers,Apparel,White,XS,29.71,39.95
+574,Sports Track Pants,Footwear,Blue,36,50.43,43.82
+575,Running Shoes Pro,Apparel,Black,L,52.25,41.0
+576,Running Shoes Pro,Footwear,Blue,37,95.15,21.31
+577,Formal Leather Shoes,Apparel,Yellow,L,75.28,38.49
+578,Summer T-Shirt Classic,Footwear,Purple,45,87.3,25.44
+579,Elegant Kurta Set,Footwear,Purple,36,22.06,28.89
+580,Leather Belt,Apparel,Red,XL,55.52,36.83
+581,Casual Sneakers,Footwear,Purple,35,50.88,13.09
+582,Premium Cotton Shirt,Footwear,Blue,36,80.06,16.15
+583,Premium Cotton Shirt,Footwear,Red,44,75.98,28.53
+584,Casual Sneakers,Apparel,Pink,XL,79.36,18.51
+585,Casual Denim Jacket,Apparel,Blue,XL,96.96,23.66
+586,Leather Belt,Footwear,Orange,36,57.08,29.71
+587,Summer T-Shirt Classic,Footwear,Purple,42,28.63,20.05
+588,Leather Belt,Footwear,Yellow,38,31.45,39.27
+589,Sports Track Pants,Apparel,Black,M,98.18,36.77
+590,Casual Denim Jacket,Apparel,Purple,L,93.91,44.48
+591,Summer T-Shirt Classic,Footwear,Pink,43,78.83,29.36
+592,Casual Denim Jacket,Footwear,Red,41,97.53,16.94
+593,Formal Leather Shoes,Apparel,Purple,XXL,37.54,27.52
+594,Sports Track Pants,Apparel,Yellow,S,53.95,38.81
+595,Summer T-Shirt Classic,Apparel,White,XXL,28.73,49.34
+596,Formal Leather Shoes,Apparel,Grey,XL,86.51,48.65
+597,Elegant Kurta Set,Footwear,Purple,45,53.12,17.3
+598,Winter Wool Sweater,Footwear,Grey,39,99.74,14.92
+599,Premium Cotton Shirt,Apparel,Grey,XS,55.38,13.46
+600,Formal Leather Shoes,Apparel,Red,S,48.25,41.05
+601,Summer T-Shirt Classic,Footwear,White,40,89.42,18.46
+602,Summer T-Shirt Classic,Footwear,Grey,42,81.62,32.45
+603,Casual Sneakers,Apparel,Red,XS,93.69,26.31
+604,Running Shoes Pro,Apparel,Pink,XXL,42.23,45.31
+605,Formal Leather Shoes,Footwear,Red,40,83.28,17.23
+606,Formal Leather Shoes,Footwear,Yellow,45,96.76,12.58
+607,Elegant Kurta Set,Apparel,White,L,36.67,39.86
+608,Premium Cotton Shirt,Footwear,Purple,42,87.8,23.89
+609,Summer T-Shirt Classic,Footwear,Black,44,64.15,12.65
+610,Winter Wool Sweater,Apparel,Blue,S,45.8,14.59
+611,Elegant Kurta Set,Apparel,Purple,S,40.11,46.11
+612,Running Shoes Pro,Apparel,Pink,XS,28.8,47.85
+613,Casual Sneakers,Apparel,Blue,XL,95.33,43.03
+614,Casual Sneakers,Apparel,Black,XS,20.73,33.46
+615,Premium Cotton Shirt,Footwear,Pink,39,54.5,31.35
+616,Sports Track Pants,Apparel,Red,S,94.32,42.02
+617,Winter Wool Sweater,Apparel,Black,L,69.84,16.48
+618,Formal Leather Shoes,Apparel,Grey,S,94.45,30.93
+619,Premium Cotton Shirt,Apparel,White,XL,23.4,26.75
+620,Casual Denim Jacket,Apparel,Black,S,84.09,37.46
+621,Summer T-Shirt Classic,Apparel,Purple,L,38.4,36.36
+622,Winter Wool Sweater,Apparel,Purple,XS,87.11,39.16
+623,Summer T-Shirt Classic,Footwear,Purple,42,69.68,24.23
+624,Running Shoes Pro,Apparel,Red,XS,96.35,42.91
+625,Casual Sneakers,Apparel,Grey,L,78.16,47.01
+626,Elegant Kurta Set,Apparel,Pink,M,93.2,10.75
+627,Elegant Kurta Set,Apparel,Purple,S,64.19,32.76
+628,Casual Sneakers,Apparel,White,L,29.73,21.83
+629,Sports Track Pants,Footwear,White,40,71.63,47.32
+630,Leather Belt,Apparel,Purple,XL,73.49,42.16
+631,Casual Sneakers,Footwear,Orange,45,76.49,15.6
+632,Casual Denim Jacket,Apparel,Green,XL,56.93,48.52
+633,Formal Leather Shoes,Apparel,Grey,XS,42.67,38.8
+634,Formal Leather Shoes,Apparel,Green,XS,79.54,28.19
+635,Winter Wool Sweater,Footwear,White,35,45.28,24.76
+636,Elegant Kurta Set,Footwear,Grey,45,84.57,41.07
+637,Casual Denim Jacket,Footwear,Pink,44,24.97,49.79
+638,Elegant Kurta Set,Apparel,Blue,XS,78.83,13.86
+639,Winter Wool Sweater,Footwear,Green,41,97.32,10.07
+640,Elegant Kurta Set,Apparel,Blue,XS,45.4,49.97
+641,Summer T-Shirt Classic,Footwear,Grey,36,27.28,46.85
+642,Leather Belt,Apparel,Red,XXL,42.94,12.67
+643,Leather Belt,Footwear,Orange,44,76.08,31.31
+644,Leather Belt,Footwear,Purple,39,54.21,13.06
+645,Summer T-Shirt Classic,Footwear,Pink,38,94.44,39.23
+646,Elegant Kurta Set,Footwear,White,41,54.33,24.4
+647,Summer T-Shirt Classic,Footwear,White,43,34.96,44.02
+648,Casual Denim Jacket,Apparel,Black,XL,29.71,37.44
+649,Formal Leather Shoes,Footwear,Grey,35,84.01,25.32
+650,Running Shoes Pro,Footwear,Purple,36,38.02,10.47
+651,Casual Sneakers,Footwear,Orange,36,82.03,13.68
+652,Casual Sneakers,Apparel,Yellow,XXL,58.48,20.66
+653,Sports Track Pants,Footwear,Grey,37,36.98,27.49
+654,Elegant Kurta Set,Apparel,Blue,M,89.56,33.33
+655,Summer T-Shirt Classic,Apparel,Orange,XS,27.36,20.63
+656,Summer T-Shirt Classic,Footwear,Grey,39,51.29,47.67
+657,Formal Leather Shoes,Apparel,Black,XS,61.08,10.86
+658,Premium Cotton Shirt,Apparel,Red,XXL,71.97,30.59
+659,Casual Denim Jacket,Footwear,Purple,38,84.34,13.72
+660,Summer T-Shirt Classic,Apparel,Blue,XXL,71.13,46.27
+661,Premium Cotton Shirt,Apparel,Purple,XS,26.44,26.93
+662,Formal Leather Shoes,Apparel,Orange,M,39.22,16.7
+663,Casual Denim Jacket,Apparel,Green,S,90.33,48.76
+664,Casual Sneakers,Footwear,Blue,41,65.0,45.41
+665,Formal Leather Shoes,Apparel,Red,XXL,85.17,20.56
+666,Leather Belt,Apparel,Grey,S,46.55,36.73
+667,Sports Track Pants,Footwear,Red,36,45.42,36.4
+668,Leather Belt,Footwear,Orange,38,75.57,13.87
+669,Running Shoes Pro,Footwear,Green,43,30.22,40.02
+670,Sports Track Pants,Apparel,Red,M,34.09,17.56
+671,Casual Sneakers,Footwear,Purple,45,86.16,40.7
+672,Premium Cotton Shirt,Apparel,Pink,XL,88.38,10.16
+673,Casual Sneakers,Apparel,Black,S,39.39,27.49
+674,Casual Denim Jacket,Footwear,White,40,58.9,28.93
+675,Running Shoes Pro,Footwear,Orange,43,45.7,40.66
+676,Premium Cotton Shirt,Apparel,Grey,XXL,42.3,28.97
+677,Leather Belt,Apparel,White,L,49.08,38.37
+678,Winter Wool Sweater,Footwear,Green,43,21.38,28.56
+679,Leather Belt,Apparel,White,XS,25.36,41.87
+680,Running Shoes Pro,Footwear,Blue,40,79.17,39.27
+681,Running Shoes Pro,Footwear,Purple,40,68.15,38.16
+682,Elegant Kurta Set,Footwear,Red,45,56.59,30.84
+683,Running Shoes Pro,Apparel,Red,XL,85.78,28.97
+684,Running Shoes Pro,Apparel,Pink,XL,20.43,43.55
+685,Running Shoes Pro,Footwear,Pink,35,53.83,15.99
+686,Summer T-Shirt Classic,Footwear,Yellow,43,38.44,42.22
+687,Formal Leather Shoes,Apparel,White,M,47.71,41.21
+688,Formal Leather Shoes,Footwear,Yellow,40,91.74,14.17
+689,Casual Denim Jacket,Footwear,Yellow,36,31.87,15.39
+690,Leather Belt,Apparel,Green,L,90.93,31.71
+691,Casual Denim Jacket,Footwear,Orange,36,60.17,19.08
+692,Leather Belt,Apparel,Black,S,97.42,11.02
+693,Sports Track Pants,Footwear,Black,44,70.04,40.25
+694,Running Shoes Pro,Footwear,Red,38,63.96,15.24
+695,Running Shoes Pro,Apparel,Blue,XL,50.32,47.74
+696,Summer T-Shirt Classic,Apparel,Purple,XXL,36.01,47.68
+697,Summer T-Shirt Classic,Apparel,Red,L,77.14,22.33
+698,Leather Belt,Footwear,Orange,44,30.58,21.21
+699,Casual Sneakers,Apparel,Grey,XL,42.96,38.01
+700,Summer T-Shirt Classic,Footwear,Green,36,79.9,47.74
+701,Winter Wool Sweater,Apparel,Purple,XXL,87.35,39.99
+702,Premium Cotton Shirt,Footwear,Purple,44,99.35,25.77
+703,Running Shoes Pro,Apparel,Pink,S,94.54,32.86
+704,Formal Leather Shoes,Footwear,Blue,35,74.93,35.07
+705,Sports Track Pants,Apparel,Yellow,XXL,24.3,46.9
+706,Sports Track Pants,Apparel,Purple,S,72.62,24.42
+707,Formal Leather Shoes,Apparel,Purple,XL,68.61,16.04
+708,Leather Belt,Footwear,Blue,44,87.28,49.32
+709,Casual Sneakers,Apparel,Purple,M,71.95,27.92
+710,Winter Wool Sweater,Apparel,Green,S,94.16,12.07
+711,Premium Cotton Shirt,Footwear,Black,38,86.5,39.11
+712,Leather Belt,Apparel,Orange,L,63.23,17.45
+713,Casual Sneakers,Apparel,Purple,L,21.28,28.93
+714,Casual Sneakers,Footwear,Red,41,84.04,11.59
+715,Running Shoes Pro,Footwear,White,35,66.71,40.32
+716,Leather Belt,Apparel,Black,S,57.29,38.32
+717,Winter Wool Sweater,Apparel,Yellow,XS,98.09,43.93
+718,Elegant Kurta Set,Footwear,Blue,35,42.85,26.81
+719,Leather Belt,Apparel,Orange,S,99.6,28.11
+720,Summer T-Shirt Classic,Footwear,Pink,41,88.92,38.64
+721,Summer T-Shirt Classic,Apparel,White,S,96.88,35.89
+722,Formal Leather Shoes,Apparel,Red,XS,26.58,39.63
+723,Leather Belt,Apparel,Red,XL,35.27,33.2
+724,Casual Denim Jacket,Apparel,Orange,L,59.14,12.02
+725,Casual Sneakers,Footwear,Black,36,74.13,20.48
+726,Casual Denim Jacket,Apparel,Blue,L,45.66,39.6
+727,Casual Sneakers,Apparel,White,XL,53.7,31.08
+728,Running Shoes Pro,Apparel,Red,XL,27.01,26.89
+729,Leather Belt,Footwear,Orange,44,92.22,16.24
+730,Winter Wool Sweater,Apparel,Grey,L,96.23,36.1
+731,Elegant Kurta Set,Apparel,Black,L,29.17,13.06
+732,Winter Wool Sweater,Footwear,Orange,39,20.78,17.23
+733,Leather Belt,Footwear,Red,37,30.4,29.37
+734,Elegant Kurta Set,Footwear,Grey,42,71.41,29.49
+735,Casual Sneakers,Footwear,Yellow,35,92.73,20.78
+736,Elegant Kurta Set,Apparel,Orange,S,49.97,26.87
+737,Summer T-Shirt Classic,Apparel,Orange,XS,77.92,33.19
+738,Formal Leather Shoes,Footwear,Red,43,61.95,30.77
+739,Formal Leather Shoes,Apparel,White,XL,88.51,17.55
+740,Sports Track Pants,Footwear,Yellow,38,55.1,44.35
+741,Casual Sneakers,Apparel,Grey,XXL,73.54,25.72
+742,Casual Sneakers,Footwear,Grey,44,24.46,26.81
+743,Winter Wool Sweater,Footwear,Purple,41,40.9,49.0
+744,Leather Belt,Apparel,Orange,XXL,79.11,27.03
+745,Running Shoes Pro,Apparel,Yellow,XS,26.48,15.15
+746,Sports Track Pants,Apparel,Blue,L,38.0,47.05
+747,Running Shoes Pro,Footwear,Orange,39,58.81,29.41
+748,Elegant Kurta Set,Apparel,Blue,S,56.71,18.66
+749,Casual Denim Jacket,Apparel,Purple,XL,27.28,23.99
+750,Premium Cotton Shirt,Apparel,Green,S,30.11,40.21
+751,Premium Cotton Shirt,Footwear,White,38,94.31,40.71
+752,Winter Wool Sweater,Footwear,Yellow,44,99.42,49.04
+753,Winter Wool Sweater,Footwear,Pink,44,21.95,25.27
+754,Elegant Kurta Set,Apparel,Red,XS,59.26,13.17
+755,Leather Belt,Apparel,White,L,54.06,25.56
+756,Winter Wool Sweater,Footwear,Yellow,39,47.29,11.83
+757,Winter Wool Sweater,Apparel,Blue,M,35.25,39.66
+758,Winter Wool Sweater,Footwear,White,43,85.06,12.06
+759,Sports Track Pants,Footwear,Green,44,63.17,36.12
+760,Elegant Kurta Set,Footwear,Black,44,20.87,26.78
+761,Premium Cotton Shirt,Apparel,Yellow,L,64.49,36.98
+762,Casual Denim Jacket,Footwear,White,42,62.41,13.75
+763,Winter Wool Sweater,Footwear,White,44,84.63,16.94
+764,Formal Leather Shoes,Apparel,Grey,M,64.99,44.8
+765,Casual Denim Jacket,Footwear,Blue,35,93.97,43.26
+766,Leather Belt,Footwear,Grey,41,70.98,48.65
+767,Leather Belt,Footwear,Red,44,46.94,15.36
+768,Premium Cotton Shirt,Footwear,Grey,36,24.74,30.48
+769,Elegant Kurta Set,Footwear,Green,38,33.86,27.41
+770,Casual Sneakers,Footwear,Pink,42,78.12,24.03
+771,Summer T-Shirt Classic,Footwear,Green,36,87.91,21.15
+772,Elegant Kurta Set,Apparel,Orange,XS,25.37,26.65
+773,Casual Denim Jacket,Footwear,Green,40,22.18,36.65
+774,Winter Wool Sweater,Footwear,Purple,40,86.94,18.94
+775,Casual Denim Jacket,Apparel,Blue,L,27.48,46.83
+776,Sports Track Pants,Apparel,Grey,XL,56.71,34.17
+777,Elegant Kurta Set,Footwear,White,40,85.86,17.05
+778,Casual Denim Jacket,Apparel,Orange,L,24.33,32.78
+779,Premium Cotton Shirt,Footwear,Purple,39,84.49,42.74
+780,Leather Belt,Footwear,Yellow,35,72.41,46.34
+781,Summer T-Shirt Classic,Apparel,Green,S,44.27,39.29
+782,Casual Sneakers,Apparel,White,S,32.59,31.37
+783,Running Shoes Pro,Apparel,Grey,XL,58.04,16.01
+784,Premium Cotton Shirt,Footwear,Yellow,44,84.92,17.69
+785,Sports Track Pants,Footwear,Purple,45,27.98,22.84
+786,Casual Denim Jacket,Footwear,Green,39,78.91,21.33
+787,Formal Leather Shoes,Apparel,Black,XXL,45.45,41.71
+788,Leather Belt,Footwear,Grey,45,49.98,20.04
+789,Running Shoes Pro,Footwear,Black,36,55.6,19.46
+790,Winter Wool Sweater,Footwear,Pink,36,45.39,35.68
+791,Premium Cotton Shirt,Apparel,Orange,XXL,25.73,33.35
+792,Casual Denim Jacket,Footwear,Grey,42,61.43,36.2
+793,Leather Belt,Footwear,Black,39,21.17,40.28
+794,Sports Track Pants,Apparel,Yellow,S,44.15,11.83
+795,Premium Cotton Shirt,Apparel,Blue,S,26.88,33.74
+796,Casual Sneakers,Footwear,Grey,43,85.91,39.49
+797,Running Shoes Pro,Apparel,Yellow,L,74.25,42.34
+798,Summer T-Shirt Classic,Footwear,White,39,69.04,25.17
+799,Elegant Kurta Set,Apparel,Orange,XXL,65.41,16.34
+800,Casual Denim Jacket,Footwear,White,43,25.12,22.6
+801,Casual Denim Jacket,Apparel,Blue,XS,93.14,19.61
+802,Sports Track Pants,Apparel,Blue,L,49.63,30.72
+803,Leather Belt,Footwear,White,45,80.83,34.65
+804,Running Shoes Pro,Footwear,Purple,37,43.84,27.18
+805,Casual Denim Jacket,Apparel,Orange,S,96.7,34.76
+806,Running Shoes Pro,Apparel,Grey,XS,90.86,45.08
+807,Casual Sneakers,Apparel,White,M,44.8,18.61
+808,Sports Track Pants,Apparel,Yellow,M,34.27,19.93
+809,Casual Sneakers,Footwear,White,44,68.66,35.67
+810,Summer T-Shirt Classic,Apparel,Pink,XS,41.2,43.18
+811,Running Shoes Pro,Footwear,Orange,40,52.52,15.24
+812,Sports Track Pants,Apparel,Grey,XL,65.2,41.03
+813,Running Shoes Pro,Apparel,Pink,XL,94.17,35.66
+814,Winter Wool Sweater,Apparel,Purple,XL,45.75,21.79
+815,Formal Leather Shoes,Footwear,Yellow,37,73.86,13.53
+816,Formal Leather Shoes,Apparel,Pink,L,46.28,24.47
+817,Running Shoes Pro,Apparel,Grey,XS,65.53,18.12
+818,Summer T-Shirt Classic,Footwear,Green,45,73.58,13.78
+819,Formal Leather Shoes,Footwear,Orange,39,62.4,15.8
+820,Formal Leather Shoes,Footwear,Yellow,40,58.0,16.17
+821,Casual Denim Jacket,Apparel,Black,XXL,21.95,11.68
+822,Formal Leather Shoes,Footwear,White,37,34.79,27.77
+823,Formal Leather Shoes,Footwear,Black,44,98.88,14.74
+824,Casual Denim Jacket,Footwear,Orange,35,32.4,32.8
+825,Elegant Kurta Set,Apparel,Yellow,XS,21.17,12.33
+826,Leather Belt,Footwear,Red,44,20.57,15.92
+827,Elegant Kurta Set,Apparel,Purple,S,31.85,34.1
+828,Premium Cotton Shirt,Apparel,Yellow,XXL,91.64,40.63
+829,Casual Sneakers,Footwear,Blue,35,53.51,41.5
+830,Elegant Kurta Set,Apparel,Red,M,92.36,22.77
+831,Casual Denim Jacket,Footwear,Grey,41,97.98,17.3
+832,Leather Belt,Footwear,Purple,36,75.96,30.17
+833,Premium Cotton Shirt,Footwear,Green,43,95.62,31.7
+834,Leather Belt,Apparel,Green,XS,66.09,47.21
+835,Casual Denim Jacket,Footwear,Green,41,26.38,28.43
+836,Casual Sneakers,Footwear,Grey,36,84.04,31.3
+837,Winter Wool Sweater,Footwear,Black,35,87.7,34.51
+838,Casual Denim Jacket,Apparel,Grey,XS,54.99,43.97
+839,Casual Denim Jacket,Apparel,Purple,L,50.87,11.42
+840,Leather Belt,Footwear,Yellow,41,21.0,24.55
+841,Summer T-Shirt Classic,Apparel,Purple,S,33.17,42.86
+842,Formal Leather Shoes,Footwear,Green,36,89.57,39.95
+843,Formal Leather Shoes,Footwear,Orange,41,69.17,21.58
+844,Elegant Kurta Set,Footwear,Blue,40,64.5,42.04
+845,Formal Leather Shoes,Footwear,Green,38,76.62,30.98
+846,Sports Track Pants,Footwear,Green,43,64.85,19.46
+847,Elegant Kurta Set,Apparel,Orange,M,94.67,49.72
+848,Elegant Kurta Set,Apparel,White,L,60.49,20.16
+849,Leather Belt,Footwear,Pink,36,55.36,36.53
+850,Elegant Kurta Set,Footwear,Blue,42,59.7,47.11
+851,Winter Wool Sweater,Footwear,Orange,44,80.05,38.53
+852,Casual Sneakers,Apparel,Blue,M,25.29,39.72
+853,Winter Wool Sweater,Apparel,Red,XXL,25.49,31.71
+854,Casual Sneakers,Apparel,Yellow,XL,34.1,41.87
+855,Formal Leather Shoes,Apparel,Pink,S,33.7,17.65
+856,Elegant Kurta Set,Apparel,Green,XS,81.38,49.88
+857,Winter Wool Sweater,Apparel,Red,M,55.21,28.85
+858,Casual Denim Jacket,Footwear,Red,38,65.73,49.69
+859,Summer T-Shirt Classic,Apparel,Grey,XXL,55.73,29.8
+860,Summer T-Shirt Classic,Footwear,Purple,40,81.33,43.28
+861,Summer T-Shirt Classic,Apparel,Red,L,21.11,44.84
+862,Sports Track Pants,Apparel,Grey,XL,36.53,20.01
+863,Casual Denim Jacket,Apparel,Purple,XS,45.0,46.72
+864,Elegant Kurta Set,Apparel,Grey,XXL,22.3,45.94
+865,Winter Wool Sweater,Apparel,Grey,XS,20.62,16.94
+866,Casual Sneakers,Footwear,White,43,29.99,37.57
+867,Sports Track Pants,Footwear,Orange,45,61.32,17.26
+868,Summer T-Shirt Classic,Footwear,Yellow,44,76.19,15.97
+869,Formal Leather Shoes,Apparel,White,XS,74.74,42.36
+870,Elegant Kurta Set,Footwear,Black,40,89.66,49.0
+871,Premium Cotton Shirt,Footwear,Grey,40,57.35,25.88
+872,Running Shoes Pro,Footwear,Orange,44,34.49,32.77
+873,Formal Leather Shoes,Apparel,Black,S,43.05,38.65
+874,Premium Cotton Shirt,Apparel,Red,L,84.76,21.31
+875,Elegant Kurta Set,Apparel,Red,XL,64.5,26.64
+876,Sports Track Pants,Footwear,Purple,43,65.55,12.83
+877,Casual Sneakers,Footwear,Blue,43,70.98,42.28
+878,Casual Sneakers,Footwear,Black,40,72.04,10.14
+879,Casual Sneakers,Apparel,Pink,XXL,87.2,34.93
+880,Winter Wool Sweater,Footwear,Green,43,48.52,30.17
+881,Casual Sneakers,Footwear,Red,44,36.32,30.86
+882,Formal Leather Shoes,Footwear,Red,43,87.07,33.55
+883,Winter Wool Sweater,Apparel,Black,M,76.53,29.11
+884,Casual Denim Jacket,Apparel,Green,XXL,42.61,42.61
+885,Elegant Kurta Set,Apparel,Pink,S,70.49,42.29
+886,Elegant Kurta Set,Apparel,Blue,XL,74.61,33.33
+887,Elegant Kurta Set,Footwear,Red,45,91.25,30.76
+888,Casual Denim Jacket,Apparel,Purple,L,54.0,28.84
+889,Running Shoes Pro,Footwear,Black,40,61.29,48.58
+890,Summer T-Shirt Classic,Footwear,Purple,36,61.3,14.29
+891,Sports Track Pants,Apparel,Orange,XS,83.67,38.51
+892,Running Shoes Pro,Footwear,Green,40,37.22,20.27
+893,Casual Sneakers,Footwear,Orange,36,99.87,33.75
+894,Leather Belt,Apparel,Grey,XS,46.26,21.91
+895,Elegant Kurta Set,Footwear,Pink,40,49.21,36.3
+896,Casual Denim Jacket,Apparel,Green,M,38.45,13.59
+897,Leather Belt,Footwear,White,39,52.62,41.64
+898,Elegant Kurta Set,Footwear,Pink,37,54.14,13.43
+899,Leather Belt,Footwear,Black,36,22.32,16.83
+900,Sports Track Pants,Apparel,Red,XL,73.32,23.45
+901,Premium Cotton Shirt,Apparel,Orange,S,88.98,43.47
+902,Running Shoes Pro,Apparel,Yellow,XL,94.73,35.33
+903,Sports Track Pants,Apparel,Yellow,L,82.94,41.53
+904,Casual Sneakers,Apparel,Red,L,88.43,25.68
+905,Summer T-Shirt Classic,Footwear,Pink,42,95.57,44.31
+906,Running Shoes Pro,Footwear,Red,36,60.56,46.08
+907,Casual Sneakers,Footwear,Blue,39,21.72,11.07
+908,Casual Sneakers,Footwear,Green,39,32.44,37.66
+909,Running Shoes Pro,Apparel,Blue,L,61.37,39.23
+910,Premium Cotton Shirt,Apparel,Pink,L,73.01,27.17
+911,Formal Leather Shoes,Footwear,Purple,38,99.86,16.19
+912,Casual Sneakers,Footwear,Grey,38,35.12,32.84
+913,Running Shoes Pro,Apparel,Black,XXL,24.75,48.29
+914,Running Shoes Pro,Apparel,Pink,XL,50.24,11.85
+915,Running Shoes Pro,Footwear,Grey,40,26.22,41.41
+916,Running Shoes Pro,Apparel,Green,L,78.93,21.17
+917,Winter Wool Sweater,Apparel,Grey,XL,37.86,23.26
+918,Premium Cotton Shirt,Footwear,Pink,44,49.08,23.3
+919,Leather Belt,Footwear,Black,45,46.23,43.53
+920,Winter Wool Sweater,Apparel,Yellow,L,39.62,28.62
+921,Summer T-Shirt Classic,Apparel,Purple,XL,65.26,15.98
+922,Formal Leather Shoes,Footwear,Red,44,36.01,25.54
+923,Summer T-Shirt Classic,Footwear,Black,38,83.42,33.09
+924,Summer T-Shirt Classic,Footwear,Grey,35,76.3,46.27
+925,Winter Wool Sweater,Apparel,Black,XXL,83.32,17.85
+926,Elegant Kurta Set,Footwear,Orange,44,29.06,38.32
+927,Running Shoes Pro,Footwear,Yellow,37,25.3,32.64
+928,Premium Cotton Shirt,Footwear,Green,38,97.66,24.25
+929,Premium Cotton Shirt,Apparel,Pink,M,84.31,38.75
+930,Formal Leather Shoes,Apparel,Black,XS,68.72,30.77
+931,Leather Belt,Footwear,Green,45,76.95,40.21
+932,Leather Belt,Footwear,Blue,43,64.05,17.02
+933,Winter Wool Sweater,Apparel,Red,XS,56.92,24.5
+934,Formal Leather Shoes,Footwear,Orange,41,49.15,20.53
+935,Casual Sneakers,Footwear,Purple,35,51.33,15.77
+936,Summer T-Shirt Classic,Apparel,Green,S,45.94,47.13
+937,Sports Track Pants,Apparel,Orange,L,57.02,37.31
+938,Leather Belt,Apparel,Red,M,99.92,37.69
+939,Running Shoes Pro,Apparel,Black,XL,55.7,36.55
+940,Summer T-Shirt Classic,Apparel,Pink,XS,64.6,41.79
+941,Leather Belt,Footwear,Pink,42,63.62,33.27
+942,Winter Wool Sweater,Footwear,Blue,39,40.46,39.95
+943,Formal Leather Shoes,Footwear,Purple,37,52.64,27.78
+944,Leather Belt,Footwear,Blue,36,22.13,19.63
+945,Casual Sneakers,Apparel,White,S,75.94,11.07
+946,Premium Cotton Shirt,Apparel,White,M,41.88,43.98
+947,Sports Track Pants,Footwear,Green,43,80.55,28.41
+948,Leather Belt,Apparel,Red,S,28.86,42.2
+949,Running Shoes Pro,Footwear,Purple,39,23.02,24.53
+950,Formal Leather Shoes,Apparel,Pink,XL,74.94,25.28
+951,Running Shoes Pro,Footwear,Red,42,68.69,36.31
+952,Elegant Kurta Set,Apparel,Red,XL,55.14,24.73
+953,Sports Track Pants,Apparel,Yellow,L,93.87,27.44
+954,Premium Cotton Shirt,Footwear,Red,37,62.2,49.68
+955,Running Shoes Pro,Apparel,Grey,XXL,53.7,48.94
+956,Casual Denim Jacket,Footwear,Green,41,45.14,39.26
+957,Winter Wool Sweater,Footwear,Pink,39,74.55,31.93
+958,Elegant Kurta Set,Footwear,Grey,42,55.82,38.63
+959,Leather Belt,Apparel,Red,L,97.85,11.33
+960,Summer T-Shirt Classic,Footwear,Purple,43,68.7,26.55
+961,Elegant Kurta Set,Apparel,Orange,L,76.92,25.84
+962,Running Shoes Pro,Apparel,Orange,S,58.26,22.67
+963,Leather Belt,Footwear,Red,37,95.64,12.16
+964,Leather Belt,Apparel,Orange,S,79.59,48.54
+965,Winter Wool Sweater,Apparel,Yellow,XS,85.94,31.85
+966,Running Shoes Pro,Footwear,Yellow,38,44.7,43.0
+967,Sports Track Pants,Footwear,Pink,40,97.68,47.68
+968,Leather Belt,Apparel,Pink,XL,93.93,16.06
+969,Running Shoes Pro,Footwear,White,35,51.59,26.55
+970,Formal Leather Shoes,Footwear,Blue,37,79.4,10.59
+971,Winter Wool Sweater,Footwear,Purple,39,40.02,26.19
+972,Elegant Kurta Set,Footwear,White,35,61.16,25.16
+973,Casual Denim Jacket,Footwear,White,44,41.52,43.75
+974,Running Shoes Pro,Footwear,Red,41,38.93,45.14
+975,Formal Leather Shoes,Apparel,Grey,M,48.0,22.45
+976,Winter Wool Sweater,Apparel,Pink,XXL,29.91,40.67
+977,Casual Sneakers,Footwear,Red,38,44.73,44.0
+978,Elegant Kurta Set,Footwear,Purple,39,98.24,38.01
+979,Formal Leather Shoes,Footwear,Green,40,44.4,22.83
+980,Elegant Kurta Set,Apparel,Grey,XXL,28.38,12.36
+981,Leather Belt,Footwear,Black,45,89.36,13.37
+982,Casual Denim Jacket,Footwear,Purple,39,71.31,37.22
+983,Elegant Kurta Set,Footwear,Blue,36,93.99,32.32
+984,Elegant Kurta Set,Apparel,Blue,S,43.57,16.14
+985,Casual Denim Jacket,Footwear,Green,39,28.23,15.23
+986,Formal Leather Shoes,Footwear,Pink,44,55.6,25.42
+987,Formal Leather Shoes,Apparel,Green,M,90.18,43.53
+988,Running Shoes Pro,Footwear,Grey,37,40.99,37.33
+989,Leather Belt,Apparel,Purple,L,36.03,17.37
+990,Running Shoes Pro,Footwear,Blue,45,66.44,30.57
+991,Casual Sneakers,Footwear,Green,36,57.42,41.48
+992,Premium Cotton Shirt,Footwear,Orange,37,35.29,20.64
+993,Winter Wool Sweater,Apparel,Green,XL,87.38,29.48
+994,Formal Leather Shoes,Footwear,Black,37,69.17,20.52
+995,Formal Leather Shoes,Footwear,Orange,35,61.75,19.89
+996,Premium Cotton Shirt,Footwear,Purple,39,65.29,49.82
+997,Leather Belt,Apparel,Blue,M,88.3,13.01
+998,Leather Belt,Apparel,Black,S,62.54,29.32
+999,Casual Denim Jacket,Footwear,Green,39,62.45,42.1
+1000,Summer T-Shirt Classic,Apparel,Orange,L,21.54,15.69
